@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">MasterDarkMode</string>
-    <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
@@ -9,4 +8,11 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="display_mode">display mode</string>
+    <string name="mode_radio_system">System preference</string>
+    <string name="mode_radio_dark">Dark</string>
+    <string name="mode_radio_light">Light</string>
+    <string name="mode_dialog_title">What should your app look like?</string>
+
 </resources>
